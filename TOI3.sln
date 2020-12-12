@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOI3", "TOI3\TOI3.csproj", "{E407AA89-B6A2-42D6-B2B0-E5B78119C10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E407AA89-B6A2-42D6-B2B0-E5B78119C10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E407AA89-B6A2-42D6-B2B0-E5B78119C10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E407AA89-B6A2-42D6-B2B0-E5B78119C10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E407AA89-B6A2-42D6-B2B0-E5B78119C10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F64BEA7-01B3-4D81-87D1-B2C87549A50E}
+	EndGlobalSection
+EndGlobal
